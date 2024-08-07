@@ -1,2 +1,2 @@
 # My-First-Repo
-this is the practice repo for this thing Practice Repo
+this is for creating a branch in gi
